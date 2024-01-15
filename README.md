@@ -1,9 +1,12 @@
 ### Hi there 👋
+
 This is the homepage of Randika-BLS
-This is a change
+This is a change !
+
+But I like to do more changes
 
 <!--
-**Randika-BLS/Randika-BLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Randika-BLS/Randika-BLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appe`ars on your GitHub profile.
 
 Here are some ideas to get you started:
 
