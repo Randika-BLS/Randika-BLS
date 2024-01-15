@@ -3,7 +3,9 @@
 This is the homepage of Randika-BLS
 This is a change !
 
-But I like to do more changes
+But we don't need changes!
+
+Let's do some changes
 
 <!--
 **Randika-BLS/Randika-BLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appe`ars on your GitHub profile.
